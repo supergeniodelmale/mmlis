@@ -1,8 +1,8 @@
 ---
 title: Decision Making
 layout: landing
-description: 'Evoca squadre di consulenti esperti per assistere la tua impresa nel problem solving.'
-image: assets/images/pic07.jpg
+description: 'Evoca squadre di consulenti esperti per assistere la tua impresa nel problem solving'
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
