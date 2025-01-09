@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Social Network Simulation
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Simula e valuta la tua audience per conoscere chi ti segue.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
