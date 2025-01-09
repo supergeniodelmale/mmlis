@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Decision Making
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Evoca squadre di consulenti esperti per assistere la tua impresa nel problem solving.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
