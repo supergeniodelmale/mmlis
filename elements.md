@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Simulazioni Sociali
+title: Brand Awareness
+description: Migliora il tuo brand prevedendo le reazioni della tua audience
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
