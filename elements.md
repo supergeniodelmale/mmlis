@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cosa sono i Digital Twins?
+title: Simulazioni Sociali
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
