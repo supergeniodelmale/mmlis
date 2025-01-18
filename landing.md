@@ -1,7 +1,7 @@
 ---
-title: Zorro
+title: Consumer Behavior 
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Ottimiza le vendite tramite digital twins dei tuoi utenti
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
