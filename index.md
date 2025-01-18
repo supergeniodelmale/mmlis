@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Homepage
 landing-title: 'Digital Twin Design'
 description: null
 image: assets/images/pic01.jpg
