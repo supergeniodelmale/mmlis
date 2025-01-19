@@ -87,9 +87,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Sfrutta il Potere delle Buyer Personas Digitali</h2>
 		</header>
-		<p>Il nostro team di esperti è pronto ad aiutarti a costruire buyer personas che ti guidino verso strategie vincenti. Scopri come le buyer personas integrate con i digital twins possono rivoluzionare il tuo modo di fare business. Contattaci oggi stesso per una consulenza personalizzata e inizia a trasformare la tua visione in realtà digitale!</p>
+		<p>Scopri come le buyer personas integrate con i digital twins possono rivoluzionare il tuo modo di fare business. Contattami per una consulenza personalizzata gratuita e inizia a trasformare la tua visione in realtà digitale!</p>
 		<ul class="actions">
-			<li><a href="mailto:mateuszmiroslawlis@sophia.vision" class="button next">Ottieni una consulenza gratuita</a></li>
+			<li><a href="mailto:mateuszmiroslawlis@sophia.vision" class="button next">Contattami</a></li>
 		</ul>
 	</div>
 </section>
